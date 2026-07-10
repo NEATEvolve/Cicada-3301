@@ -27,7 +27,6 @@ The public-facing Wallet 1 package currently covers:
 - [Key 01 / Fragment 1](Wallet-1/Key_01/README.md)
 - [Key 02 / Fragment 2](Wallet-1/Key_02/README.md)
 - [Key 03 / Master Decryption Key](Wallet-1/Key_03/README.md)
-- [Wallet 1 fragments](Wallet-1/Fragments.md)
 
 The package now documents the complete public puzzle chain through the final
 master decryption key. It intentionally excludes the server-returned wallet
